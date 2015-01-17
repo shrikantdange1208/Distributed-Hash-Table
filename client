@@ -1,0 +1,2 @@
+#!/bin/bash
+ant Client -Darg0=$1 -Darg1=$2 -Darg2=$3 -Darg3=$4 -Darg4=$5 -Darg5=$6 -Darg6=$7 -Darg7=$8
